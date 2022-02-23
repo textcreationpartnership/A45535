@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the magistrates &amp; other officers in Huntingtonshire who have been concern'd in the spoiling the goods of the innocent who meet together in obedience to the requirings of the good spirit of the Lord to worship him in his own way</title>
+            <author>Hardmeat, Tobias, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45535</idno>
+            <idno type="STC">Wing H700A</idno>
+            <idno type="STC">ESTC R28058</idno>
+            <idno type="EEBO-CITATION">10334373</idno>
+            <idno type="OCLC">ocm 10334373</idno>
+            <idno type="VID">44916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1385:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the magistrates &amp; other officers in Huntingtonshire who have been concern'd in the spoiling the goods of the innocent who meet together in obedience to the requirings of the good spirit of the Lord to worship him in his own way</title>
+                  <author>Hardmeat, Tobias, d. 1703.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Tobias Hardmeat.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act. --  1670.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44916:1"/>
+            <pb n="1" facs="tcp:44916:1" rendition="simple:additions"/>
+            <head>For the Magiſtrates &amp; other Officers in <hi>Huntingtonſhire,</hi> who have been concern'd in the Spoiling the Goods of the Innocent, who meet together in Obedience to the Requirings of the Good Spirit of the Lord, to Worſhip him in his own Way.</head>
+            <p>COuntrymen, unto whoſe Conſciences my Life and Converſation, with many more of my Friends, hath been manifeſted to have been peaceable, and ſeeking the Good of all People, and our Aſſemblies to have been peaceable, and our Meeting together to edifie one another in that which is good: And now, what have you againſt us ſaving the Law and Worſhip of our God? Unto the Light of Chriſt Jeſus in all your Conſciences I do appeal for Juſtice herein.</p>
+            <p>It is not unknown unto you, how that I, with many more of my Friends, have been deep Sufferers in our Eſtates under Pretence of Virtue of a late Act <hi>to prevent and ſuppreſs Sedi<g ref="char:EOLhyphen"/>tious Conventicles;</hi> but wherein I and my Friends are guilty, doth not yet appear farther then it is the Wills of Men it ſhall be ſo. Now Friends and People, I do acknowledge; it is and hath been my Practice ever ſince I was convinced of the pre<g ref="char:EOLhyphen"/>cious Truth as it is in Jeſus, to meet with the People of God, and to ſit down and wait upon him in his Fear, and to worſhip him in Spirit in Truth, and to draw near unto him, from whom I have often felt Spiritual Refreſhments, unto whoſe Honour and Glory my Soul aſcribes the Praiſe forever and e<g ref="char:EOLhyphen"/>vermore.
+<pb n="2" facs="tcp:44916:2"/>
+But now, as to that Act which you pretend to act by, <hi>1ſt,</hi> It is entituled, <hi>An Act to prevent and ſuppreſs Sediti<g ref="char:EOLhyphen"/>ous Conventicles;</hi> which I do deny being guilty of frequent<g ref="char:EOLhyphen"/>ing any Seditious Meeting; it is thoſe Rude Drunken Infor<g ref="char:EOLhyphen"/>mers, who have often diſturbed our Peaceable Meetings, and therein ſhewn themſelves Seditious and Violent againſt us, who were alwayes found and known to be Peaceable in our publick Meeting places, until they have broke the Peace, and made a Diſturbance: And it ſhould have been the Magiſtrates place to have puniſht thoſe Rude Informers, who have ſo of<g ref="char:EOLhyphen"/>ten diſturbed our Peaceable Meetings, who meet together for Good, and not for Evil. <hi>2dly,</hi> The Act s;aith, <hi>Who under Pretence of Tender Conſcience, have or may at their Meetings contrive Inſurrections (as late Experience hath ſhewn)</hi> Now I do appeal to God's Witneſs in your Conſciences, whenever had you any ſuch Experience of us? But I do affirm, that you have had large Experience to the contrary for Twenty Years and upwards, where our Meetings have been eſtabliſh<g ref="char:EOLhyphen"/>ed by the Light and Power of the Lord Jeſus. But if you ſay, <hi>We know not but in time we may, and therefore we would pre<g ref="char:EOLhyphen"/>vent you:</hi> Herein will not both Nature, ancient Laws and good Conſcience witneſs againſt you? Who will puniſh a perſon or people who doth well, becauſe you are jealous that in time to come he or they may do Evil? Beſides, Doth not God's Witneſs in your Conſciences witneſs for us, that our Principle leadeth to Good, and not to Evil; let God's Wit<g ref="char:EOLhyphen"/>neſs in your Conſciences be judge in this and of other Matters, and then Righteous Judgment aſſuredly will be given. <hi>3dly,</hi> That Act forbids the number of Five or above, beſides thoſe of the Houſhold: Now I ſay, if five or four, three or two, meet for Evil, they ought to be puniſhed according to the Na<g ref="char:EOLhyphen"/>ture of the Evil acted: but if two, three, four, five or five hundred meet together for the Good and Edification one of another in the Lord, they ought to be incouraged, and the Magiſtrates ought to preſerve them therein; and for this End pay we Tribute, that we might be preſerved in Body and E<g ref="char:EOLhyphen"/>ſtate, and live a peaceable, Godly and quiet Life, in all Ho<g ref="char:EOLhyphen"/>neſty
+<pb n="3" facs="tcp:44916:2"/>
+under the Government, but if otherwiſe, we muſt ſuffer for our Obedience to God, it is our Principle patiently to ſuffer under them that are ſet over us, and ſo commit our Cauſe unto the Lord; and this was the Practice of Chriſt Je<g ref="char:EOLhyphen"/>ſus our Lord, and his faithful Followers, when he was in that Body prepared to do his Father's Will, and his faithful Follow<g ref="char:EOLhyphen"/>ers after his Departure, when they were endued with Power from on high. And ſo I would that all our fellow Creatures, male and female, did rightly know us and our Principle, that ſo they might come and ſit down with us, and receive an Earneſt of that Inheritance and Riches which no Evil Inſtru<g ref="char:EOLhyphen"/>ment can take away, and a Place in that Habitation, which is Everlaſting.</p>
+            <p>Friends &amp; People, if we were but only Pretenders to worſhip God, we were then of all People moſt miſerable, but Thanks be to God, through our Lord Jeſus Chriſt, he hath given un<g ref="char:EOLhyphen"/>to us, not only that Knowledge, that we can ſay it is the Truth, but Praiſes to his moſt holy Name, he hath alſo given us to feel, taſte and handle of the Word of Life, whereby we know ſenſibly all things in this World to be of no Value, in Com<g ref="char:EOLhyphen"/>pariſon of the Riches of his Love to our Souls, even to as ma<g ref="char:EOLhyphen"/>ny as walk before him with a perfect and upright Heart. Chriſt Jeſus our Lord who was numbred amongſt Tranſgreſſors, above Sixteen Hundred Years ſince, as you may read in the Scrip<g ref="char:EOLhyphen"/>tures of Truth, he ſet up this Worſhip in Spirit and in Truth, which we bear Teſtimony unto, and ſuffer for, when he te<g ref="char:EOLhyphen"/>ſtified the End of the Worſhip in the Mountain, and the Worſhip at <hi>Jeruſalem,</hi> and ſaid, <hi>Not in this Mountain, nor at</hi> Jeruſalem, <hi>but they that worſhip the Father muſt worſhip him in Spirit and in Truth; for the Father ſeeketh ſuch to worſhip him.</hi> Friends and People, we were Strangers as well as others, but Chriſt Jeſus the Shepherd and Biſhop of our Souls ſought us out, and by the Arm of his Almighty Power hath brought us to be a People, who were in Dayes paſt not a People to God, but Strangers and Aliens, and wandring upon the barren Moun<g ref="char:EOLhyphen"/>tains and deſolate Hills of divers Profeſſions, ſeeking Reſt, but found it not, until the compaſſionate Creator, who beholds
+<pb n="4" facs="tcp:44916:3"/>
+the ſecrets of all Hearts, beheld us in our Blood, loaden with Sin and Iniquity and had Compaſſion on us, and did reach forth a Hand of Help unto us, and by the Light of his Son Chriſt Jeſus did ſhew unto us the Way in which we ſhould walk, wherein we have and do find Reſt to our weary pant<g ref="char:EOLhyphen"/>ing Souls, praiſes to his moſt holy Name for evermore!</p>
+            <p>So Friends and People, there is great need of our Faithful<g ref="char:EOLhyphen"/>neſs in ſo weighty a Concern as this, wherein ſo great a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>treſs lieth of our Eternal Happineſs by being faithful unto him that hath called us; for if we deny him before men, then will he deny us before his Father which is in Heaven, and whoſoever loveth any thing more then him, will not be found worthy of him.</p>
+            <p>And now be it known unto you our Country Folks, that it is our Rights to enjoy our outward Eſtates, which the Lord hath lent unto us, and made us as Stewards of amongſt you, where the Lord hath caſt our Lots, but rather then violate the Law of God in our Conſciences, we are contented to part with them for his Name and Teſtimony Sake; but what will you do in the Day of Account, or how will you appear before ſo dreadful a God, who will reward the Evil doers with ſore Vengeance? Oh People who have had any Hand in ſpoyling the Goods of the Innocent! Repent, Repent, yea I ſay ſeek a Place of Repentance before it be too late. It is the Earneſt Deſire of my Soul that every one of you our Perſecutors might find a place of Repentance, that ſo your Iniquities might be blotted out, and not be your Ruin. So whileſt the Spirit of the Lord ſtrives with you or any of you, and ſhews unto you your Evil Deeds, turn you unto it, that by it you may come to be purged from that Guilt and Tranſgreſſion which other<g ref="char:EOLhyphen"/>wiſe will be your ſore Diſtreſs in the Day of Account, which will ſhortly overtake you.</p>
+            <p>I do juſtly complain of your cruel Proceedings and Actings againſt me and others, by Pretence of the ſaid Act. In ſhort, I have had Goods ſpoyled to the worth of near forty Pounds, and now at this time there are two Warrants iſſued out againſt me, one for fifty Shillings, the other for Ten Pounds Ten Shillings, and they that have been Witneſſes againſt me,
+<pb n="5" facs="tcp:44916:3"/>
+are men of the baſeſt Sort, who for their Pains have had Part of the Spoyls, or money that hath been made of the Goods diſtrained, for which they have thus ſworn and informed. And is it not contrary to Law that a man's Oath ſhould be taken, when it is for his own Mercenary Ends, in his own Cauſe? And is it not the Informers own Cauſe, when they have Part of the Money for their Swearing and Informing? whether true or falſe it hath been little notice taken of, but if two men will but ſwear to it, we muſt ſuffer, and they for their Injurious Work have a Reward: And is not this unreaſonable to be en<g ref="char:EOLhyphen"/>couraged? I leave it to your Judgments who are knowing in Law. At our late general Meeting at <hi>Earith,</hi> where we were peaceably met together, according to our uſual manner, to wait upon and worſhip the Lord God, the Creator of Heaven and Earth (for which I ſtand fined Ten Pounds Ten Shillings, upon the Oaths of theſe Informers or ſome of them, viz. <hi>Stephen Perry</hi> of <hi>Cambridge, Thomas Gilby</hi> of <hi>Blunſham, John Pottal</hi> of <hi>Somerſham,</hi> who came into our peaceable Meeting in a very rude, diſtracted, outragious manner, being ſo in Drink they could not give a ſober Anſwer, nor ſome of them ſpeak plain, having been ſeveral Hours in an Ale-houſe to fit themſelves for that Service, yet theſe and ſuch like In<g ref="char:EOLhyphen"/>ſtruments, have and do ſerve to make ſufficient Witneſſes for the ſpoiling the Goods of the Innocent. Whether true or falſe they ſpeak &amp; ſwear to is not the Queſtion, nor are we ſo much as heard Face to Face, which Priviledge Fellons and Murderers have in their Tryals, but if the Informers will ſwear it ſhall ſerve to ſend out Warrants to deſtrain our goods. Were it an Offence to be at a peaceable Meeting at <hi>Earith,</hi> yet they that were not there, were not Offenders for being there, as for Inſtance, <hi>Thomas Cook</hi> of <hi>Earith</hi> who was not there that Day, and yet a Warrant out to deſtrain and take his goods! was ever the like heard of in any profeſſed Chriſtian Nation, or is this the Spirit of Chriſt think you People that thus acteth in theſe men? unto the Juſt Witneſs of God in every Conſci<g ref="char:EOLhyphen"/>ence, I do appeal for Juſtice.</p>
+            <p>Further your Act is made againſt ſuch <hi>as meet under Colour or
+<pb n="6" facs="tcp:44916:4"/>
+Pretence of Exerciſe of Religion, in other manner then accor<g ref="char:EOLhyphen"/>ding to the Liturgy and Practice of the Church of</hi> England. Now I do deny that ours is but a Pretence, but I do confeſs it is in Reallity and Truth to worſhip God that made me: And doth not your Liturgy allow and exhort, at all times and in all Places to pray, lifting up holy Hands to God, then I hope it is not a Tranſgreſſion if we pray in a Barn, Houſe or Yard or Backſide. Your Liturgy hath many good Words and Exhor<g ref="char:EOLhyphen"/>tations in it, which if they were practiſed by the Hearers there<g ref="char:EOLhyphen"/>of, there would not have been that Spoil and Havock made upon the Goods of the Innocent, as hath been theſe ſix Years laſt paſt. Now according to the real Words of that Act, I do not underſtand that we are the People, neither ought we to ſuffer by it.</p>
+            <p>But if any ſay, <hi>it was intended againſt us &amp; all other Sectaries, and ſo is left to the Juſtices to conſtrue moſt largely and benefici<g ref="char:EOLhyphen"/>ally for the ſuppreſſing Conventicles.</hi> Our peaceable Meetings are not Conventicles, nor ought in Juſtice to be ſuppreſt; for no ſuch Experience late or early have you ever had, but if you will conſtrue it ſo, be it upon your Heads in the Day of Account, when the Juſt God ſhall reward every one according to his Deeds done in the Body.</p>
+            <p>And now come Perſecutors of all Sorts, from the higheſt to the loweſt, let us reaſon together a little, A little while and you and we muſt be gone unto our long Homes, and then what will the Glory of this World and the Riches of it avail us. Remember <hi>Dives</hi> who had his portion in this Life, and had not compaſſion on his Fellow-creature, although I do not read that he took away that which was <hi>Lazarus</hi>'s yet his Hard-heartedneſs was his Burden, when in the Flames, and then he would have had his five Brethren warned that they might not come into that Place of Torment, and would have had <hi>Lazarus</hi> ſent from the dead to warn them, <hi>But if they will not believe</hi> Moſes <hi>and the Prophets, they will not believe though one riſe from the dead</hi> (it was anſwered him) Oh how this poor <hi>Dives</hi> pleaded, for then he was ſo deſirous to have his Brethren warned that they might not come to be his
+<pb n="7" facs="tcp:44916:4"/>
+Companions! But how many Warnings this Nation of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath had, it is hard to Number, even by Witneſſes, who have been raiſed from Death, which is in Sin, and from the Grave of Iniquity, to bear Teſtimony to the Everlaſting Truth, as it is in Jeſus, and for the turning of People from Satan's power to the Power of the Lord Jeſus, the Light of the World, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by it People might come to know a being waſhed, puri<g ref="char:EOLhyphen"/>fied and ſanctified: And what hath been the Reward from the Rulers? Theſe Witneſſes have received Priſons, many till Death, others Whipt as Vagabonds, ſome ſtocked, ſome<g ref="char:EOLhyphen"/>times others Stoned by the rude tumultuous People; yet he that ſent them forth hath been with them, and ſupported them through all theſe Sufferings, and been a ſufficient Reward unto them even as in dayes paſt, and in Generations that are gone; he hath been a ſufficient Support in all Tryals and Exer<g ref="char:EOLhyphen"/>ciſes which any hath met withal, as they have abode faithful to the Light of the Lord Jeſus<g ref="char:punc">▪</g> So People, it is in vain to ſtrive againſt the Lord; for he is ſtronger then you: therefore ſubmit unto him, that he may break you, that a New Lump you may become; for, if he fall upon you, you will be ground to Powder. Therefore whilſt you have Time, prize it; for the Time paſt none can call again, neither Time to come can any truly promiſe to themſelves.</p>
+            <p>Law-Makers, did you intend this Act for a Snare for the Feet of the Innocent? God, that Judge of all Secrets, knows your Intents therein, and our Innocency.</p>
+            <p>Informers, did or do you intend or think to make your ſelves Rich by the Spoyl of the Innocent, who have no Helper in the Earth? A Curſe will follow you, you Vagabonds.</p>
+            <p>Juſtices, ſo called, did and do you think to ſave your great Eſtates by giving out your Warrants to Diſtrain us, and take away ours, who had ſmall Ones, and yet God's Bleſſings up<g ref="char:EOLhyphen"/>on our honeſt Labours, if you would have let it alone with us? God hath, doth and will plead with you in ſecret.</p>
+            <p>Conſtables, Church wardens, Overſeers of the Poor, &amp;c, who have had a hand in taking away and ſpoiling your Neigh<g ref="char:EOLhyphen"/>bours Goods, contrary to the Light of Chriſt Jeſus in your
+<pb n="8" facs="tcp:44916:5"/>
+own Conſciences, for fear of ſuffering your ſelves; will your ſo doing bring you Peace in your Latter-end? With the Light of Chriſt Jeſus ſearch yourſelves, and ſee how it ſtands with you; for you muſt give an Account hereof unto the great God, that made Heaven and Earth.</p>
+            <p>Covetous Earth worms, who have bought our Goods, which we have truly laboured for, at an under Value, ſometimes three penny worth for one Penny; what do you think they will inrich and inlarge your Eſtates? No; they will be as a Moth in a Garment.</p>
+            <p>Perſecutors with Tongue, and Speakers Evil of the Light which you could never comprehend nor in your carnal wiſdom never ſhall; what do you think to poſſeſs by killing the Right Heir? No, the Lord of the Vineyard will come and diſpoſſeſs you; ſuch ſhall be eſtabliſhed in the laſting Poſſeſſion, as will with Gladneſs of Heart yield unto him of his Fruits in due ſeaſon: Praiſes be given unto the Lord, many can ſay of a Truth, <hi>The Sun is riſen that ſhall never ſet more,</hi> and <hi>it is in vain for the Night Fowlers to ſpread their Nets:</hi> And ſo, in that Habitation that God hath prepared me, where no Wicked Informer nor Inſtrument of Satan can come, I reſt; who am a true Lover of Magiſtracy and Juſtice, and a Well-wiſher to all People,</p>
+            <p>Feneyſtanton, <hi>the</hi> 13th <hi>Day of the</hi> 4th <hi>Moneth, commonly called</hi> June, 1676.</p>
+            <closer>
+               <signed>Tobias Hardmeat.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:44916:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
